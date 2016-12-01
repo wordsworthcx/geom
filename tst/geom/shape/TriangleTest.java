@@ -95,6 +95,7 @@ public class TriangleTest extends AbstractCaseTest {
     }
 
     // conflit merge from master
+    // from development
     private double getTriangleAreaByWidthAndHeight(double width, double height) {
         return width * height / 2.0;
     }
@@ -103,6 +104,8 @@ public class TriangleTest extends AbstractCaseTest {
         return height + width + Math.sqrt(Math.pow(height, 2.0) + Math.pow(width, 2.0));
     }
 
+    //from branch development
     //from branch master
+    // cached
 }
 
