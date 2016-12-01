@@ -12,6 +12,8 @@ import org.mockito.Mock;
 import static org.mockito.Mockito.*;
 import org.mockito.MockitoAnnotations;
 import org.mockito.InjectMocks;
+
+// from branch master
 /**
  * @author xuch.
  */
