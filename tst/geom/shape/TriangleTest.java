@@ -92,6 +92,7 @@ public class TriangleTest extends AbstractCaseTest {
         Triangle triangle = new Triangle(Point2D.ZERO, new Point2D(1, 0), new Point2D(-1, 0));
     }
 
+    // from development
     private double getTriangleAreaByWidthAndHeight(double width, double height) {
         return width * height / 2.0;
     }
