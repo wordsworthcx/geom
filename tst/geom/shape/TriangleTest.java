@@ -99,5 +99,7 @@ public class TriangleTest extends AbstractCaseTest {
     private double getPerimeterOfRightTriangle(double width, double height) {
         return height + width + Math.sqrt(Math.pow(height, 2.0) + Math.pow(width, 2.0));
     }
+
+    //from branch development
 }
 
